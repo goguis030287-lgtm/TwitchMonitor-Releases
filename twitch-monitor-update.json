@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "installer_url": "https://github.com/goguis030287-lgtm/TwitchMonitor-Releases/releases/tag/v1.1.0",
+  "installer_url": ""installer_url": "https://github.com/goguis030287-lgtm/TwitchMonitor-Releases/releases/download/v1.1.0/TwitchMonitor_V1_1_Setup.exe",",
   "sha256": "052627dc2d7aebf40b4ae29635f3da7ae85e6b6eac1cba9e0932d96e4c125467",
   "changelog": "Twitch Monitor V1.1 — Update & Quality of Life : centre état système, notifications, système de mise à jour, sauvegarde avant mise à jour, assistant de configuration et raccourcis clavier."
 }
