@@ -1,6 +1,6 @@
 {
   "version": "1.2.2",
-  "installer_url": "https://github.com/goguis030287-lgtm/TwitchMonitor-Releases/releases/download/v1.2.1/TwitchMonitor_V1_2_1_Setup.exe",
+  "installer_url": "https://github.com/goguis030287-lgtm/TwitchMonitor-Releases/releases/download/v1.2.2/TwitchMonitor_V1_2_2_Setup.exe",
   "sha256": "11ea2d06af604716695231f23007a0051715802afda7488aa682e401d65e86f4",
-  "changelog": "Twitch Monitor V1.2.1 : plugin Stream Deck et Stream Deck+, API locale, contrôle OBS/Twitch, molettes scènes OBS et Dashboard, retour d'état dynamique."
+  "changelog": "Twitch Monitor V1.2.2 : refonte visuelle complète Studio Purple, nouveau shell, badges Twitch/LIVE/OBS/BOT/API, navigation modernisée, cartes et tableaux harmonisés."
 }
